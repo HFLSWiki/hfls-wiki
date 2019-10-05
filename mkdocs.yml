@@ -1,0 +1,8 @@
+site_name: HFLS Wiki
+theme:
+  name: 'material'
+pages:
+- [index.md, Home]
+- [about.md, About]
+
+
