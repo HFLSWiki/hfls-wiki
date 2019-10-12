@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://slight.ink/hfls-wiki/</loc>
+     <loc>https://hflswiki.github.io/hfls-wiki/</loc>
      <lastmod>2019-10-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://slight.ink/hfls-wiki/about/</loc>
+     <loc>https://hflswiki.github.io/hfls-wiki/about/</loc>
      <lastmod>2019-10-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
